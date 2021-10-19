@@ -22,19 +22,19 @@
     "url": "https://insurance.waspito.com",
     "icon": "https://favicons.githubusercontent.com/insurance.waspito.com",
     "slug": "waspito-insurance",
-    "status": "down",
-    "uptime": "99.90%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
-    "time": 5200,
-    "timeDay": 11498,
-    "timeWeek": 5200,
-    "timeMonth": 5200,
-    "timeYear": 5200,
+    "status": "up",
+    "uptime": "99.26%",
+    "uptimeDay": "99.14%",
+    "uptimeWeek": "99.26%",
+    "uptimeMonth": "99.26%",
+    "uptimeYear": "99.26%",
+    "time": 4494,
+    "timeDay": 7985,
+    "timeWeek": 4494,
+    "timeMonth": 4494,
+    "timeYear": 4494,
     "dailyMinutesDown": {
-      "2021-10-19": 2
+      "2021-10-19": 12
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://lab.waspito.com",
     "icon": "https://favicons.githubusercontent.com/lab.waspito.com",
     "slug": "waspito-lab",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1021,
-    "timeDay": 1052,
-    "timeWeek": 1021,
-    "timeMonth": 1021,
-    "timeYear": 1021,
+    "status": "up",
+    "uptime": "99.34%",
+    "uptimeDay": "99.24%",
+    "uptimeWeek": "99.34%",
+    "uptimeMonth": "99.34%",
+    "uptimeYear": "99.34%",
+    "time": 1020,
+    "timeDay": 1035,
+    "timeWeek": 1020,
+    "timeMonth": 1020,
+    "timeYear": 1020,
     "dailyMinutesDown": {
-      "2021-10-19": 0
+      "2021-10-19": 11
     }
   }
 ]
