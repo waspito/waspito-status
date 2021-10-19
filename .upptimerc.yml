@@ -25,8 +25,12 @@ status-website:
   navbar:
     - title: Status
       href: /
+    - title: Waspito
+      href: https://waspito.com
+    - title: Waspito
+      href: https://insurance.waspito.com
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+i18n:
+  footer: This page is [open source]($REPO), powered by [Upptime](https://upptime.js.org)
