@@ -1,7 +1,10 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: waspito
+repo: waspito-status
 
+assignees:
+  - muarachmann
+  
 sites:
   - name: Waspito Platform
     url: https://waspito.com
@@ -11,14 +14,14 @@ sites:
     url: https://lab.waspito.com
  
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
+  favicon: https://www.waspito.com/favicon.ico
+  faviconSvg: https://insurance.waspito.com/images/logo.svg
   cname: status.waspito.com
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Waspito** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  logoUrl: https://insurance.waspito.com/images/logo.png
+  name: Waspito
+  introTitle: "**Waspito** is a telehealth app. We pull the whole healthcare ecosystem into one platform with objective to make basic healthcare more accessible and affordable."
+  introMessage: We are the platform that engages Africa into the conversation and action to drive affordable and accessible quality healthcare across the continent.
+
   navbar:
     - title: Status
       href: /
