@@ -18,19 +18,19 @@ status-website:
   faviconSvg: https://insurance.waspito.com/images/logo.svg
   cname: status.waspito.com
   logoUrl: https://insurance.waspito.com/images/logo.png
-  name: Waspito
+  name: Waspito Status
   introTitle: "**Waspito** is a telehealth app. We pull the whole healthcare ecosystem into one platform with objective to make basic healthcare more accessible and affordable."
   introMessage: We are the platform that engages Africa into the conversation and action to drive affordable and accessible quality healthcare across the continent.
 
   navbar:
     - title: Status
       href: /
-    - title: Waspito
+    - title: Waspito Platform
       href: https://waspito.com
-    - title: Waspito
+    - title: Waspito Insurance
       href: https://insurance.waspito.com
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Waspito Lab
+      href: https://lab.waspito.com
 
 i18n:
   footer: This page is [open source]($REPO), powered by [Upptime](https://upptime.js.org)
