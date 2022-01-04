@@ -22,10 +22,10 @@
     "url": "https://insurance.waspito.com",
     "icon": "https://favicons.githubusercontent.com/insurance.waspito.com",
     "slug": "waspito-insurance",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1210,
@@ -33,16 +33,18 @@
     "timeWeek": 989,
     "timeMonth": 977,
     "timeYear": 1210,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-04": 1
+    }
   },
   {
     "name": "Waspito Lab",
     "url": "https://lab.waspito.com",
     "icon": "https://favicons.githubusercontent.com/lab.waspito.com",
     "slug": "waspito-lab",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,6 +53,8 @@
     "timeWeek": 980,
     "timeMonth": 965,
     "timeYear": 959,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-04": 0
+    }
   }
 ]
