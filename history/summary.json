@@ -4,9 +4,9 @@
     "url": "https://waspito.com",
     "icon": "https://favicons.githubusercontent.com/waspito.com",
     "slug": "waspito-platform",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 2116,
     "timeMonth": 2111,
     "timeYear": 2179,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-16": 0
+    }
   },
   {
     "name": "Waspito Insurance",
