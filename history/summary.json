@@ -4,9 +4,9 @@
     "url": "https://waspito.com",
     "icon": "https://favicons.githubusercontent.com/waspito.com",
     "slug": "waspito-platform",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "97.30%",
+    "uptimeDay": "97.29%",
     "uptimeWeek": "99.61%",
     "uptimeMonth": "99.69%",
     "uptimeYear": "99.93%",
@@ -16,6 +16,7 @@
     "timeMonth": 2163,
     "timeYear": 2177,
     "dailyMinutesDown": {
+      "2022-03-01": 0,
       "2022-02-28": 39,
       "2022-02-16": 98
     }
