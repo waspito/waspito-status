@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.81%",
-    "time": 2234,
-    "timeDay": 2036,
-    "timeWeek": 1907,
-    "timeMonth": 2024,
+    "time": 2233,
+    "timeDay": 1817,
+    "timeWeek": 1903,
+    "timeMonth": 2022,
     "timeYear": 2166,
     "dailyMinutesDown": {
       "2024-01-09": 39,
@@ -39,14 +39,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 935,
-    "timeDay": 959,
-    "timeWeek": 870,
-    "timeMonth": 903,
+    "time": 934,
+    "timeDay": 802,
+    "timeWeek": 865,
+    "timeMonth": 902,
     "timeYear": 929,
-    "dailyMinutesDown": {
-      "2023-02-16": 27
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Waspito Lab",
@@ -54,14 +52,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/lab.waspito.com.ico",
     "slug": "waspito-lab",
     "status": "up",
-    "uptime": "92.48%",
+    "uptime": "92.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.72%",
-    "time": 1171,
-    "timeDay": 1169,
-    "timeWeek": 1076,
+    "time": 1172,
+    "timeDay": 1113,
+    "timeWeek": 1088,
     "timeMonth": 1131,
     "timeYear": 1178,
     "dailyMinutesDown": {
