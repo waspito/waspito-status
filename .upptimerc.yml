@@ -7,7 +7,7 @@ assignees:
   
 sites:
   - name: Waspito Platform
-    url: https://waspito.com
+    url: https://www.waspito.com
   - name: Waspito Insurance
     url: https://insurance.waspito.com
   - name: Waspito Lab
@@ -26,7 +26,7 @@ status-website:
     - title: Status
       href: /
     - title: Waspito Platform
-      href: https://waspito.com
+      href: https://www.waspito.com
     - title: Waspito Insurance
       href: https://insurance.waspito.com
     - title: Waspito Lab
