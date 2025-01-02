@@ -12,6 +12,8 @@ sites:
     url: https://insurance.waspito.com
   - name: Waspito Lab
     url: https://lab.waspito.com
+  - name: Waspito Pharmacy
+    url: https://pharmacy.waspito.com
  
 status-website:
   favicon: https://www.waspito.com/favicon.ico
@@ -31,6 +33,8 @@ status-website:
       href: https://insurance.waspito.com
     - title: Waspito Lab
       href: https://lab.waspito.com
+    - title: Waspito Pharmacy
+      href: https://pharmacy.waspito.com
 
 i18n:
   footer: This page is [open source]($REPO), powered by [Upptime](https://upptime.js.org)
