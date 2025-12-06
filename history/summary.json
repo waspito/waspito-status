@@ -59,17 +59,18 @@
     "slug": "waspito-lab",
     "status": "down",
     "uptime": "95.73%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "98.31%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.99%",
     "time": 1187,
     "timeDay": 1173,
     "timeWeek": 1150,
     "timeMonth": 1160,
     "timeYear": 1184,
     "dailyMinutesDown": {
-      "2025-12-05": 0,
+      "2025-12-06": 6,
+      "2025-12-05": 18,
       "2024-12-12": 23
     }
   },
