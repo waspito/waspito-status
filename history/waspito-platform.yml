@@ -1,7 +1,7 @@
 url: https://www.waspito.com
-status: up
-code: 200
-responseTime: 2115
-lastUpdated: 2025-12-25T23:02:01.510Z
+status: down
+code: 500
+responseTime: 1656
+lastUpdated: 2025-12-26T10:08:49.046Z
 startTime: 2021-10-18T03:09:32.000Z
 generator: Upptime <https://github.com/upptime/upptime>
